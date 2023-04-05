@@ -4,6 +4,5 @@ const generador = () => {
     return Math.floor(Math.random() * 8);
 };
 
-
-
 console.log(frases[generador()]);
+// Has comentarios de lo que estas haciendo
